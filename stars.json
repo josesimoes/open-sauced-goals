@@ -1,13 +1,13 @@
 [
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8073,
-    "open_issues_count": 215,
-    "forks_count": 791
+    "stargazers_count": 8091,
+    "open_issues_count": 213,
+    "forks_count": 792
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 118,
+    "stargazers_count": 120,
     "open_issues_count": 15,
     "forks_count": 45
   },
@@ -21,19 +21,19 @@
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 41,
     "open_issues_count": 2,
-    "forks_count": 201
+    "forks_count": 202
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3645,
-    "open_issues_count": 158,
-    "forks_count": 922
+    "stargazers_count": 3653,
+    "open_issues_count": 159,
+    "forks_count": 925
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 401,
+    "stargazers_count": 400,
     "open_issues_count": 20,
-    "forks_count": 463
+    "forks_count": 464
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
@@ -43,20 +43,20 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1190,
+    "stargazers_count": 1191,
     "open_issues_count": 130,
     "forks_count": 157
   },
   {
     "full_name": "hassio-addons/addon-vscode",
     "stargazers_count": 317,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 70
   },
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 124,
-    "open_issues_count": 7,
+    "open_issues_count": 9,
     "forks_count": 35
   },
   {
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 32,
-    "forks_count": 234
+    "forks_count": 236
   },
   {
     "full_name": "Azure/iot-central-industrial-OEE",
     "stargazers_count": 18,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 8,
     "forks_count": 38
   },
@@ -104,14 +104,14 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 151,
-    "open_issues_count": 100,
+    "open_issues_count": 99,
     "forks_count": 104
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 109,
     "open_issues_count": 6,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.UdpClient",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "carlosperate/arm-none-eabi-gcc-action",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "nanoframework/nanoFramework.SignalR.Client",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1698,
+    "stargazers_count": 1700,
     "open_issues_count": 37,
     "forks_count": 310
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21360,
-    "open_issues_count": 18,
-    "forks_count": 2388
+    "stargazers_count": 21352,
+    "open_issues_count": 19,
+    "forks_count": 2385
   },
   {
     "full_name": "MaJerle/lwrb",
-    "stargazers_count": 477,
+    "stargazers_count": 479,
     "open_issues_count": 1,
-    "forks_count": 177
+    "forks_count": 180
   }
 ]
