@@ -1,15 +1,15 @@
 [
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8101,
-    "open_issues_count": 214,
-    "forks_count": 795
+    "stargazers_count": 8113,
+    "open_issues_count": 219,
+    "forks_count": 797
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 122,
-    "open_issues_count": 15,
-    "forks_count": 46
+    "stargazers_count": 123,
+    "open_issues_count": 16,
+    "forks_count": 48
   },
   {
     "full_name": "bytewizer/runtime",
@@ -20,24 +20,24 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 41,
-    "open_issues_count": 2,
-    "forks_count": 202
+    "open_issues_count": 3,
+    "forks_count": 203
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3654,
+    "stargazers_count": 3657,
     "open_issues_count": 159,
     "forks_count": 925
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 400,
-    "open_issues_count": 21,
-    "forks_count": 465
+    "open_issues_count": 30,
+    "forks_count": 466
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 449,
+    "stargazers_count": 450,
     "open_issues_count": 8,
     "forks_count": 26
   },
@@ -74,18 +74,18 @@
   {
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
     "stargazers_count": 197,
-    "open_issues_count": 33,
-    "forks_count": 236
+    "open_issues_count": 32,
+    "forks_count": 237
   },
   {
     "full_name": "Azure/iot-central-industrial-OEE",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 376,
+    "stargazers_count": 377,
     "open_issues_count": 8,
     "forks_count": 38
   },
@@ -104,12 +104,12 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 151,
-    "open_issues_count": 101,
+    "open_issues_count": 99,
     "forks_count": 105
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "carlosperate/arm-none-eabi-gcc-action",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -134,7 +134,7 @@
   {
     "full_name": "angularsen/UnitsNet",
     "stargazers_count": 1702,
-    "open_issues_count": 38,
+    "open_issues_count": 34,
     "forks_count": 310
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21343,
+    "stargazers_count": 21347,
     "open_issues_count": 19,
-    "forks_count": 2382
+    "forks_count": 2381
   },
   {
     "full_name": "MaJerle/lwrb",
