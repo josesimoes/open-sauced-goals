@@ -1,15 +1,15 @@
 [
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8157,
-    "open_issues_count": 219,
-    "forks_count": 801
+    "stargazers_count": 8178,
+    "open_issues_count": 186,
+    "forks_count": 805
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 125,
     "open_issues_count": 17,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "bytewizer/runtime",
@@ -20,31 +20,31 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 41,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 206
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3664,
+    "stargazers_count": 3667,
     "open_issues_count": 159,
     "forks_count": 925
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 401,
-    "open_issues_count": 23,
+    "stargazers_count": 402,
+    "open_issues_count": 26,
     "forks_count": 468
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
     "stargazers_count": 451,
     "open_issues_count": 8,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1195,
-    "open_issues_count": 131,
+    "stargazers_count": 1197,
+    "open_issues_count": 127,
     "forks_count": 157
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 128,
-    "open_issues_count": 15,
+    "stargazers_count": 129,
+    "open_issues_count": 8,
     "forks_count": 36
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 10,
     "forks_count": 39
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "Azure/azure-sdk-for-c",
-    "stargazers_count": 155,
+    "stargazers_count": 157,
     "open_issues_count": 95,
     "forks_count": 105
   },
@@ -122,7 +122,7 @@
   {
     "full_name": "carlosperate/arm-none-eabi-gcc-action",
     "stargazers_count": 16,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1709,
+    "stargazers_count": 1710,
     "open_issues_count": 35,
     "forks_count": 310
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21334,
+    "stargazers_count": 21335,
     "open_issues_count": 19,
-    "forks_count": 2384
+    "forks_count": 2382
   },
   {
     "full_name": "MaJerle/lwrb",
