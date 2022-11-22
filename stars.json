@@ -7,13 +7,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8341,
-    "open_issues_count": 191,
+    "stargazers_count": 8355,
+    "open_issues_count": 192,
     "forks_count": 829
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 139,
+    "stargazers_count": 141,
     "open_issues_count": 19,
     "forks_count": 59
   },
@@ -31,32 +31,32 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3711,
+    "stargazers_count": 3714,
     "open_issues_count": 162,
     "forks_count": 932
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 409,
-    "open_issues_count": 33,
-    "forks_count": 476
+    "open_issues_count": 30,
+    "forks_count": 477
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 458,
+    "stargazers_count": 459,
     "open_issues_count": 8,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1215,
+    "stargazers_count": 1216,
     "open_issues_count": 129,
     "forks_count": 160
   },
   {
     "full_name": "hassio-addons/addon-vscode",
     "stargazers_count": 326,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 70
   },
   {
@@ -81,7 +81,7 @@
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
     "stargazers_count": 197,
     "open_issues_count": 0,
-    "forks_count": 235
+    "forks_count": 234
   },
   {
     "full_name": "Azure/iot-central-industrial-OEE",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 381,
-    "open_issues_count": 10,
+    "stargazers_count": 382,
+    "open_issues_count": 11,
     "forks_count": 40
   },
   {
@@ -110,13 +110,13 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 168,
-    "open_issues_count": 97,
+    "open_issues_count": 98,
     "forks_count": 106
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 120,
-    "open_issues_count": 7,
+    "stargazers_count": 122,
+    "open_issues_count": 6,
     "forks_count": 44
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1736,
+    "stargazers_count": 1739,
     "open_issues_count": 28,
     "forks_count": 311
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21317,
+    "stargazers_count": 21301,
     "open_issues_count": 19,
-    "forks_count": 2371
+    "forks_count": 2369
   }
 ]
