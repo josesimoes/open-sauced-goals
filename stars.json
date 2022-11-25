@@ -7,15 +7,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8355,
+    "stargazers_count": 8365,
     "open_issues_count": 192,
-    "forks_count": 829
+    "forks_count": 832
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 141,
+    "stargazers_count": 145,
     "open_issues_count": 19,
-    "forks_count": 59
+    "forks_count": 62
   },
   {
     "full_name": "bytewizer/runtime",
@@ -31,25 +31,25 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3714,
-    "open_issues_count": 162,
-    "forks_count": 932
+    "stargazers_count": 3717,
+    "open_issues_count": 163,
+    "forks_count": 933
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 409,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 477
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 459,
+    "stargazers_count": 460,
     "open_issues_count": 8,
     "forks_count": 29
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1216,
+    "stargazers_count": 1217,
     "open_issues_count": 129,
     "forks_count": 160
   },
@@ -62,7 +62,7 @@
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 134,
-    "open_issues_count": 18,
+    "open_issues_count": 8,
     "forks_count": 37
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 11,
     "forks_count": 40
   },
@@ -110,7 +110,7 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 168,
-    "open_issues_count": 98,
+    "open_issues_count": 99,
     "forks_count": 106
   },
   {
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1739,
-    "open_issues_count": 28,
+    "stargazers_count": 1741,
+    "open_issues_count": 29,
     "forks_count": 311
   },
   {
     "full_name": "nanoframework/nanobuild",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21301,
-    "open_issues_count": 19,
+    "stargazers_count": 21303,
+    "open_issues_count": 18,
     "forks_count": 2369
   }
 ]
