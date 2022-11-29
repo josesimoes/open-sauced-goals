@@ -7,15 +7,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8365,
-    "open_issues_count": 192,
-    "forks_count": 832
+    "stargazers_count": 8371,
+    "open_issues_count": 196,
+    "forks_count": 833
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 145,
     "open_issues_count": 19,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "bytewizer/runtime",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "Azure/iot-plugandplay-models",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 212
   },
@@ -33,36 +33,36 @@
     "full_name": "Azure/DotNetty",
     "stargazers_count": 3717,
     "open_issues_count": 163,
-    "forks_count": 933
+    "forks_count": 934
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 409,
-    "open_issues_count": 29,
-    "forks_count": 477
+    "stargazers_count": 411,
+    "open_issues_count": 30,
+    "forks_count": 476
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 8,
     "forks_count": 29
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1217,
-    "open_issues_count": 129,
+    "stargazers_count": 1218,
+    "open_issues_count": 130,
     "forks_count": 160
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 326,
-    "open_issues_count": 2,
+    "stargazers_count": 327,
+    "open_issues_count": 4,
     "forks_count": 70
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 134,
-    "open_issues_count": 8,
+    "stargazers_count": 135,
+    "open_issues_count": 9,
     "forks_count": 37
   },
   {
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "Azure/azure-sdk-for-c",
-    "stargazers_count": 168,
-    "open_issues_count": 99,
+    "stargazers_count": 169,
+    "open_issues_count": 100,
     "forks_count": 106
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 6,
     "forks_count": 44
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21303,
+    "stargazers_count": 21301,
     "open_issues_count": 18,
-    "forks_count": 2369
+    "forks_count": 2365
   }
 ]
