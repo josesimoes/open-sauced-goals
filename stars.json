@@ -1,21 +1,21 @@
 [
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 224,
+    "stargazers_count": 223,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8371,
-    "open_issues_count": 196,
-    "forks_count": 833
+    "stargazers_count": 8391,
+    "open_issues_count": 194,
+    "forks_count": 832
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 145,
-    "open_issues_count": 19,
-    "forks_count": 63
+    "stargazers_count": 148,
+    "open_issues_count": 20,
+    "forks_count": 64
   },
   {
     "full_name": "bytewizer/runtime",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 411,
-    "open_issues_count": 30,
-    "forks_count": 476
+    "stargazers_count": 412,
+    "open_issues_count": 27,
+    "forks_count": 478
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1218,
-    "open_issues_count": 130,
+    "stargazers_count": 1219,
+    "open_issues_count": 129,
     "forks_count": 160
   },
   {
     "full_name": "hassio-addons/addon-vscode",
     "stargazers_count": 327,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 70
   },
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 135,
-    "open_issues_count": 9,
-    "forks_count": 37
+    "open_issues_count": 13,
+    "forks_count": 38
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 383,
-    "open_issues_count": 11,
+    "stargazers_count": 384,
+    "open_issues_count": 15,
     "forks_count": 40
   },
   {
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "Azure/azure-sdk-for-c",
-    "stargazers_count": 169,
-    "open_issues_count": 100,
+    "stargazers_count": 170,
+    "open_issues_count": 101,
     "forks_count": 106
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 123,
-    "open_issues_count": 6,
-    "forks_count": 44
+    "open_issues_count": 8,
+    "forks_count": 45
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.UdpClient",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "carlosperate/arm-none-eabi-gcc-action",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 5,
     "forks_count": 2
   },
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1741,
-    "open_issues_count": 29,
+    "stargazers_count": 1746,
+    "open_issues_count": 24,
     "forks_count": 311
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21301,
+    "stargazers_count": 21297,
     "open_issues_count": 18,
     "forks_count": 2365
   }
