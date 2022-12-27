@@ -13,15 +13,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 5606,
-    "open_issues_count": 45,
-    "forks_count": 365
+    "stargazers_count": 5611,
+    "open_issues_count": 47,
+    "forks_count": 364
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 696,
+    "stargazers_count": 699,
     "open_issues_count": 7,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8497,
-    "open_issues_count": 196,
+    "stargazers_count": 8509,
+    "open_issues_count": 195,
     "forks_count": 843
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 161,
     "open_issues_count": 21,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "bytewizer/runtime",
@@ -50,12 +50,12 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 47,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 213
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3740,
+    "stargazers_count": 3739,
     "open_issues_count": 163,
     "forks_count": 933
   },
@@ -63,7 +63,7 @@
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 415,
     "open_issues_count": 23,
-    "forks_count": 478
+    "forks_count": 479
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
@@ -74,18 +74,18 @@
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
     "stargazers_count": 1227,
-    "open_issues_count": 131,
+    "open_issues_count": 130,
     "forks_count": 166
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 333,
-    "open_issues_count": 4,
+    "stargazers_count": 337,
+    "open_issues_count": 3,
     "forks_count": 69
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 13,
     "forks_count": 39
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 394,
+    "stargazers_count": 395,
     "open_issues_count": 13,
     "forks_count": 42
   },
@@ -140,8 +140,8 @@
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 129,
-    "open_issues_count": 10,
-    "forks_count": 46
+    "open_issues_count": 8,
+    "forks_count": 47
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.UdpClient",
@@ -153,17 +153,17 @@
     "full_name": "carlosperate/arm-none-eabi-gcc-action",
     "stargazers_count": 19,
     "open_issues_count": 5,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "nanoframework/nanoFramework.SignalR.Client",
     "stargazers_count": 8,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "angularsen/UnitsNet",
-    "stargazers_count": 1763,
+    "stargazers_count": 1765,
     "open_issues_count": 25,
     "forks_count": 317
   },
