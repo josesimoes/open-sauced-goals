@@ -1,9 +1,9 @@
 [
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1069,
+    "stargazers_count": 1093,
     "open_issues_count": 0,
-    "forks_count": 38
+    "forks_count": 40
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 5839,
+    "stargazers_count": 5852,
     "open_issues_count": 49,
-    "forks_count": 371
+    "forks_count": 373
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 755,
+    "stargazers_count": 757,
     "open_issues_count": 4,
     "forks_count": 42
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8675,
-    "open_issues_count": 206,
-    "forks_count": 857
+    "stargazers_count": 8685,
+    "open_issues_count": 201,
+    "forks_count": 859
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 27,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "bytewizer/runtime",
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "Azure/iot-plugandplay-models",
-    "stargazers_count": 48,
-    "open_issues_count": 1,
+    "stargazers_count": 49,
+    "open_issues_count": 0,
     "forks_count": 215
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3772,
+    "stargazers_count": 3771,
     "open_issues_count": 163,
-    "forks_count": 937
+    "forks_count": 938
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 19,
-    "forks_count": 484
+    "forks_count": 485
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
     "stargazers_count": 471,
     "open_issues_count": 9,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1251,
+    "stargazers_count": 1252,
     "open_issues_count": 130,
-    "forks_count": 169
+    "forks_count": 171
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 348,
+    "stargazers_count": 349,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 145,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 40
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "net-daemon/docs",
     "stargazers_count": 34,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 25
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "Azure/iot-central-industrial-OEE",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -152,14 +152,14 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 179,
-    "open_issues_count": 102,
+    "open_issues_count": 103,
     "forks_count": 107
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 135,
     "open_issues_count": 10,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.UdpClient",
