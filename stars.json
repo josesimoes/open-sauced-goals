@@ -1,8 +1,8 @@
 [
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1101,
-    "open_issues_count": 0,
+    "stargazers_count": 1119,
+    "open_issues_count": 1,
     "forks_count": 42
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 5862,
+    "stargazers_count": 5878,
     "open_issues_count": 50,
-    "forks_count": 374
+    "forks_count": 375
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 759,
+    "stargazers_count": 766,
     "open_issues_count": 4,
-    "forks_count": 42
+    "forks_count": 44
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8692,
-    "open_issues_count": 201,
-    "forks_count": 859
+    "stargazers_count": 8721,
+    "open_issues_count": 202,
+    "forks_count": 860
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 184,
+    "stargazers_count": 188,
     "open_issues_count": 27,
     "forks_count": 79
   },
@@ -69,43 +69,43 @@
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 49,
     "open_issues_count": 0,
-    "forks_count": 215
+    "forks_count": 216
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3771,
+    "stargazers_count": 3774,
     "open_issues_count": 163,
-    "forks_count": 939
+    "forks_count": 940
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
-    "stargazers_count": 424,
-    "open_issues_count": 18,
-    "forks_count": 486
+    "stargazers_count": 425,
+    "open_issues_count": 19,
+    "forks_count": 485
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 474,
+    "stargazers_count": 473,
     "open_issues_count": 9,
     "forks_count": 32
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1253,
+    "stargazers_count": 1254,
     "open_issues_count": 130,
     "forks_count": 172
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 350,
+    "stargazers_count": 351,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 145,
-    "open_issues_count": 14,
-    "forks_count": 40
+    "open_issues_count": 13,
+    "forks_count": 39
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
@@ -116,8 +116,8 @@
   {
     "full_name": "net-daemon/docs",
     "stargazers_count": 34,
-    "open_issues_count": 4,
-    "forks_count": 25
+    "open_issues_count": 6,
+    "forks_count": 24
   },
   {
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 411,
+    "stargazers_count": 414,
     "open_issues_count": 18,
     "forks_count": 44
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.TcpClient",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -152,12 +152,12 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 179,
-    "open_issues_count": 105,
+    "open_issues_count": 102,
     "forks_count": 106
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 10,
     "forks_count": 49
   },
