@@ -1,9 +1,9 @@
 [
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 12013,
+    "stargazers_count": 12033,
     "open_issues_count": 38,
-    "forks_count": 1684
+    "forks_count": 1687
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1157,
-    "open_issues_count": 1,
-    "forks_count": 46
+    "stargazers_count": 1177,
+    "open_issues_count": 0,
+    "forks_count": 50
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
     "stargazers_count": 7,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 5915,
+    "stargazers_count": 5930,
     "open_issues_count": 51,
     "forks_count": 377
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 778,
+    "stargazers_count": 781,
     "open_issues_count": 5,
     "forks_count": 48
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 236,
+    "stargazers_count": 238,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 8770,
-    "open_issues_count": 201,
-    "forks_count": 866
+    "stargazers_count": 8778,
+    "open_issues_count": 199,
+    "forks_count": 869
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 198,
+    "stargazers_count": 200,
     "open_issues_count": 30,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "bytewizer/runtime",
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3782,
+    "stargazers_count": 3785,
     "open_issues_count": 162,
-    "forks_count": 941
+    "forks_count": 943
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 425,
-    "open_issues_count": 18,
+    "open_issues_count": 20,
     "forks_count": 483
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1260,
+    "stargazers_count": 1262,
     "open_issues_count": 130,
-    "forks_count": 173
+    "forks_count": 175
   },
   {
     "full_name": "hassio-addons/addon-vscode",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 145,
-    "open_issues_count": 9,
-    "forks_count": 40
+    "stargazers_count": 146,
+    "open_issues_count": 12,
+    "forks_count": 41
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "net-daemon/docs",
-    "stargazers_count": 34,
+    "stargazers_count": 33,
     "open_issues_count": 3,
     "forks_count": 25
   },
@@ -135,17 +135,11 @@
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
     "stargazers_count": 197,
     "open_issues_count": 0,
-    "forks_count": 234
-  },
-  {
-    "full_name": "Azure/iot-central-industrial-OEE",
-    "stargazers_count": 21,
-    "open_issues_count": 2,
-    "forks_count": 0
+    "forks_count": 233
   },
   {
     "full_name": "AArnott/Nerdbank.Streams",
-    "stargazers_count": 420,
+    "stargazers_count": 424,
     "open_issues_count": 18,
     "forks_count": 44
   },
@@ -157,26 +151,32 @@
   },
   {
     "full_name": "microsoft/jacdac-stm32x0",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "Azure/azure-sdk-for-c",
-    "stargazers_count": 180,
-    "open_issues_count": 104,
+    "stargazers_count": 182,
+    "open_issues_count": 102,
     "forks_count": 109
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 138,
     "open_issues_count": 10,
-    "forks_count": 50
+    "forks_count": 49
   },
   {
     "full_name": "nanoframework/System.Net.Sockets.UdpClient",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 2
+  },
+  {
+    "full_name": "carlosperate/arm-none-eabi-gcc-action",
+    "stargazers_count": 27,
+    "open_issues_count": 3,
+    "forks_count": 3
   }
 ]
