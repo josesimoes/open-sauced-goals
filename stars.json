@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 12896,
-    "open_issues_count": 41,
-    "forks_count": 1875
+    "stargazers_count": 12915,
+    "open_issues_count": 40,
+    "forks_count": 1880
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1309,
+    "stargazers_count": 1310,
     "open_issues_count": 1,
     "forks_count": 65
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6159,
+    "stargazers_count": 6164,
     "open_issues_count": 63,
     "forks_count": 389
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 931,
+    "stargazers_count": 932,
     "open_issues_count": 7,
     "forks_count": 62
   },
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9089,
-    "open_issues_count": 215,
+    "stargazers_count": 9100,
+    "open_issues_count": 218,
     "forks_count": 889
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 242,
-    "open_issues_count": 40,
+    "stargazers_count": 243,
+    "open_issues_count": 41,
     "forks_count": 97
   },
   {
@@ -86,19 +86,19 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 51,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 226
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3856,
+    "stargazers_count": 3861,
     "open_issues_count": 164,
-    "forks_count": 957
+    "forks_count": 958
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 435,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 494
   },
   {
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1296,
+    "stargazers_count": 1295,
     "open_issues_count": 133,
     "forks_count": 186
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 4,
     "forks_count": 71
   },
@@ -164,13 +164,13 @@
   {
     "full_name": "Azure/azure-sdk-for-c",
     "stargazers_count": 194,
-    "open_issues_count": 108,
+    "open_issues_count": 107,
     "forks_count": 114
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
     "stargazers_count": 160,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 55
   },
   {
