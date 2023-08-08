@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 13250,
+    "stargazers_count": 13283,
     "open_issues_count": 45,
-    "forks_count": 1957
+    "forks_count": 1968
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1372,
+    "stargazers_count": 1373,
     "open_issues_count": 0,
     "forks_count": 75
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6243,
-    "open_issues_count": 66,
+    "stargazers_count": 6254,
+    "open_issues_count": 65,
     "forks_count": 394
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
     "stargazers_count": 971,
     "open_issues_count": 9,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9255,
+    "stargazers_count": 9270,
     "open_issues_count": 209,
-    "forks_count": 897
+    "forks_count": 898
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
@@ -86,24 +86,24 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 54,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 227
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3886,
-    "open_issues_count": 164,
+    "stargazers_count": 3888,
+    "open_issues_count": 165,
     "forks_count": 964
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 437,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 497
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 10,
     "forks_count": 34
   },
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 394,
+    "stargazers_count": 396,
     "open_issues_count": 4,
     "forks_count": 76
   },
   {
     "full_name": "net-daemon/netdaemon",
     "stargazers_count": 166,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 48
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "dotnet/Nerdbank.Streams",
-    "stargazers_count": 481,
-    "open_issues_count": 9,
+    "stargazers_count": 485,
+    "open_issues_count": 10,
     "forks_count": 46
   },
   {
