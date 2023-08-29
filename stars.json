@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 13401,
+    "stargazers_count": 13416,
     "open_issues_count": 45,
-    "forks_count": 2000
+    "forks_count": 2007
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1399,
+    "stargazers_count": 1406,
     "open_issues_count": 32,
     "forks_count": 77
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6272,
+    "stargazers_count": 6279,
     "open_issues_count": 68,
     "forks_count": 397
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 982,
+    "stargazers_count": 983,
     "open_issues_count": 10,
     "forks_count": 68
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 267,
+    "stargazers_count": 268,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9316,
-    "open_issues_count": 209,
+    "stargazers_count": 9321,
+    "open_issues_count": 210,
     "forks_count": 902
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 42,
     "forks_count": 106
   },
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "Azure/iot-plugandplay-models",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 228
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3898,
+    "stargazers_count": 3896,
     "open_issues_count": 166,
     "forks_count": 964
   },
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 523,
+    "stargazers_count": 524,
     "open_issues_count": 10,
     "forks_count": 37
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1312,
-    "open_issues_count": 138,
+    "stargazers_count": 1313,
+    "open_issues_count": 137,
     "forks_count": 184
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 398,
-    "open_issues_count": 3,
+    "stargazers_count": 399,
+    "open_issues_count": 2,
     "forks_count": 76
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 17,
     "forks_count": 48
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "dotnet/Nerdbank.Streams",
-    "stargazers_count": 499,
+    "stargazers_count": 503,
     "open_issues_count": 11,
     "forks_count": 47
   },
