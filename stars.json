@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 13484,
-    "open_issues_count": 45,
-    "forks_count": 2019
+    "stargazers_count": 13508,
+    "open_issues_count": 46,
+    "forks_count": 2023
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1423,
+    "stargazers_count": 1424,
     "open_issues_count": 31,
     "forks_count": 81
   },
@@ -32,7 +32,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 48,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 14
   },
   {
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6309,
-    "open_issues_count": 71,
+    "stargazers_count": 6310,
+    "open_issues_count": 72,
     "forks_count": 399
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 995,
+    "stargazers_count": 998,
     "open_issues_count": 10,
     "forks_count": 73
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9371,
-    "open_issues_count": 210,
-    "forks_count": 903
+    "stargazers_count": 9380,
+    "open_issues_count": 212,
+    "forks_count": 905
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
@@ -91,32 +91,32 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3905,
-    "open_issues_count": 166,
+    "stargazers_count": 3909,
+    "open_issues_count": 167,
     "forks_count": 965
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 437,
-    "open_issues_count": 24,
+    "open_issues_count": 27,
     "forks_count": 498
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 10,
     "forks_count": 36
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1320,
+    "stargazers_count": 1324,
     "open_issues_count": 138,
     "forks_count": 185
   },
   {
     "full_name": "hassio-addons/addon-vscode",
     "stargazers_count": 397,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 77
   },
   {
@@ -146,7 +146,7 @@
   {
     "full_name": "dotnet/Nerdbank.Streams",
     "stargazers_count": 509,
-    "open_issues_count": 13,
+    "open_issues_count": 16,
     "forks_count": 48
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 11,
     "forks_count": 55
   },
