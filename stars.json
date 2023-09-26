@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 13527,
+    "stargazers_count": 13533,
     "open_issues_count": 46,
-    "forks_count": 2028
+    "forks_count": 2030
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1426,
+    "stargazers_count": 1430,
     "open_issues_count": 34,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6313,
+    "stargazers_count": 6317,
     "open_issues_count": 71,
-    "forks_count": 401
+    "forks_count": 403
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1002,
+    "stargazers_count": 1006,
     "open_issues_count": 10,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 270,
+    "stargazers_count": 269,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9391,
-    "open_issues_count": 211,
-    "forks_count": 906
+    "stargazers_count": 9407,
+    "open_issues_count": 209,
+    "forks_count": 907
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 43,
     "forks_count": 109
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3912,
+    "stargazers_count": 3913,
     "open_issues_count": 167,
     "forks_count": 965
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 438,
-    "open_issues_count": 27,
-    "forks_count": 498
+    "open_issues_count": 29,
+    "forks_count": 497
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "dotnet/Nerdbank.Streams",
-    "stargazers_count": 509,
+    "stargazers_count": 510,
     "open_issues_count": 16,
     "forks_count": 48
   },
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "Azure/azure-sdk-for-c",
-    "stargazers_count": 200,
-    "open_issues_count": 92,
+    "stargazers_count": 201,
+    "open_issues_count": 93,
     "forks_count": 116
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 11,
     "forks_count": 55
   },
