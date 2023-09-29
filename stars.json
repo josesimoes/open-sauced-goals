@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 13533,
+    "stargazers_count": 13556,
     "open_issues_count": 46,
-    "forks_count": 2030
+    "forks_count": 2033
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1430,
+    "stargazers_count": 1435,
     "open_issues_count": 34,
     "forks_count": 83
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6317,
-    "open_issues_count": 71,
-    "forks_count": 403
+    "stargazers_count": 6319,
+    "open_issues_count": 73,
+    "forks_count": 405
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1006,
+    "stargazers_count": 1010,
     "open_issues_count": 10,
     "forks_count": 74
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9407,
-    "open_issues_count": 209,
-    "forks_count": 907
+    "stargazers_count": 9424,
+    "open_issues_count": 211,
+    "forks_count": 909
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3913,
-    "open_issues_count": 167,
+    "stargazers_count": 3914,
+    "open_issues_count": 168,
     "forks_count": 965
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 438,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 497
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 170,
-    "open_issues_count": 18,
+    "stargazers_count": 171,
+    "open_issues_count": 13,
     "forks_count": 47
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "net-daemon/docs",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 6,
     "forks_count": 27
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "dotnet/Nerdbank.Streams",
-    "stargazers_count": 510,
+    "stargazers_count": 512,
     "open_issues_count": 16,
     "forks_count": 48
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "aormsby/Fork-Sync-With-Upstream-action",
-    "stargazers_count": 173,
+    "stargazers_count": 175,
     "open_issues_count": 11,
     "forks_count": 55
   },
