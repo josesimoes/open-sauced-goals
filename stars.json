@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 21603,
-    "open_issues_count": 23,
-    "forks_count": 12715
+    "stargazers_count": 22227,
+    "open_issues_count": 28,
+    "forks_count": 13058
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14120,
+    "stargazers_count": 14136,
     "open_issues_count": 55,
-    "forks_count": 2157
+    "forks_count": 2162
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1794,
+    "stargazers_count": 1810,
     "open_issues_count": 38,
-    "forks_count": 125
+    "forks_count": 127
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6811,
+    "stargazers_count": 6816,
     "open_issues_count": 68,
     "forks_count": 428
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1262,
-    "open_issues_count": 9,
+    "stargazers_count": 1263,
+    "open_issues_count": 10,
     "forks_count": 93
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9711,
-    "open_issues_count": 219,
-    "forks_count": 938
+    "stargazers_count": 9719,
+    "open_issues_count": 222,
+    "forks_count": 939
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 44,
     "forks_count": 122
   },
@@ -122,12 +122,12 @@
   {
     "full_name": "Azure/iot-plugandplay-models",
     "stargazers_count": 53,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 237
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3956,
+    "stargazers_count": 3960,
     "open_issues_count": 173,
     "forks_count": 973
   },
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 421,
-    "open_issues_count": 6,
+    "stargazers_count": 425,
+    "open_issues_count": 5,
     "forks_count": 76
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 182,
-    "open_issues_count": 13,
+    "stargazers_count": 183,
+    "open_issues_count": 12,
     "forks_count": 52
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
     "stargazers_count": 12,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 9
   },
   {
