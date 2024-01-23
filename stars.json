@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 22611,
+    "stargazers_count": 22950,
     "open_issues_count": 35,
-    "forks_count": 13861
+    "forks_count": 14138
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14176,
+    "stargazers_count": 14196,
     "open_issues_count": 56,
-    "forks_count": 2174
+    "forks_count": 2177
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1832,
-    "open_issues_count": 40,
-    "forks_count": 129
+    "stargazers_count": 1838,
+    "open_issues_count": 39,
+    "forks_count": 130
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6833,
+    "stargazers_count": 6836,
     "open_issues_count": 68,
-    "forks_count": 429
+    "forks_count": 428
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1272,
+    "stargazers_count": 1291,
     "open_issues_count": 10,
-    "forks_count": 94
+    "forks_count": 96
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9754,
-    "open_issues_count": 222,
-    "forks_count": 942
+    "stargazers_count": 9762,
+    "open_issues_count": 215,
+    "forks_count": 941
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 306,
-    "open_issues_count": 44,
-    "forks_count": 124
+    "open_issues_count": 45,
+    "forks_count": 126
   },
   {
     "full_name": "bytewizer/runtime",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3962,
+    "stargazers_count": 3963,
     "open_issues_count": 174,
     "forks_count": 974
   },
@@ -145,32 +145,32 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1357,
-    "open_issues_count": 122,
+    "stargazers_count": 1359,
+    "open_issues_count": 120,
     "forks_count": 190
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 431,
-    "open_issues_count": 6,
+    "stargazers_count": 434,
+    "open_issues_count": 9,
     "forks_count": 76
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 181,
-    "open_issues_count": 7,
-    "forks_count": 52
+    "stargazers_count": 182,
+    "open_issues_count": 4,
+    "forks_count": 53
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
     "stargazers_count": 12,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "net-daemon/docs",
-    "stargazers_count": 45,
-    "open_issues_count": 7,
+    "stargazers_count": 46,
+    "open_issues_count": 9,
     "forks_count": 28
   },
   {
