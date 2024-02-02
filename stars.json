@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 23368,
-    "open_issues_count": 25,
-    "forks_count": 14526
+    "stargazers_count": 23462,
+    "open_issues_count": 24,
+    "forks_count": 14722
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14244,
+    "stargazers_count": 14272,
     "open_issues_count": 56,
-    "forks_count": 2186
+    "forks_count": 2192
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1847,
+    "stargazers_count": 1861,
     "open_issues_count": 39,
     "forks_count": 132
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 53,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 16
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6851,
-    "open_issues_count": 68,
+    "stargazers_count": 6853,
+    "open_issues_count": 67,
     "forks_count": 427
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9779,
+    "stargazers_count": 9793,
     "open_issues_count": 219,
     "forks_count": 942
   },
@@ -135,7 +135,7 @@
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 444,
     "open_issues_count": 24,
-    "forks_count": 500
+    "forks_count": 502
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1361,
-    "open_issues_count": 116,
+    "stargazers_count": 1363,
+    "open_issues_count": 117,
     "forks_count": 190
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 435,
-    "open_issues_count": 8,
+    "stargazers_count": 436,
+    "open_issues_count": 7,
     "forks_count": 77
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 9,
     "forks_count": 53
   },
@@ -171,7 +171,7 @@
     "full_name": "net-daemon/docs",
     "stargazers_count": 47,
     "open_issues_count": 11,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "Azure-Samples/azure-iot-samples-csharp",
