@@ -7,9 +7,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 23557,
-    "open_issues_count": 19,
-    "forks_count": 14907
+    "stargazers_count": 23650,
+    "open_issues_count": 18,
+    "forks_count": 15036
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -32,7 +32,7 @@
   {
     "full_name": "nanoframework/System.Security.Cryptography",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14285,
+    "stargazers_count": 14301,
     "open_issues_count": 56,
     "forks_count": 2196
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 1892,
+    "stargazers_count": 1903,
     "open_issues_count": 38,
     "forks_count": 133
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6859,
+    "stargazers_count": 6857,
     "open_issues_count": 68,
     "forks_count": 428
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1301,
+    "stargazers_count": 1302,
     "open_issues_count": 10,
     "forks_count": 97
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9805,
-    "open_issues_count": 221,
-    "forks_count": 942
+    "stargazers_count": 9818,
+    "open_issues_count": 222,
+    "forks_count": 944
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 307,
+    "stargazers_count": 309,
     "open_issues_count": 45,
     "forks_count": 126
   },
@@ -128,13 +128,13 @@
   {
     "full_name": "Azure/DotNetty",
     "stargazers_count": 3970,
-    "open_issues_count": 173,
+    "open_issues_count": 172,
     "forks_count": 977
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 443,
-    "open_issues_count": 24,
+    "open_issues_count": 26,
     "forks_count": 501
   },
   {
@@ -146,7 +146,7 @@
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
     "stargazers_count": 1364,
-    "open_issues_count": 118,
+    "open_issues_count": 120,
     "forks_count": 190
   },
   {
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 186,
+    "stargazers_count": 188,
     "open_issues_count": 9,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "net-daemon/homeassistant-addon",
