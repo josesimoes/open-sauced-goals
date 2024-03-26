@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Infineon/wifi-core-freertos-lwip-mbedtls",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "nanoframework/nanoFramework.Bluetooth.Hid",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -8,26 +14,26 @@
   {
     "full_name": "open62541/open62541",
     "stargazers_count": 2402,
-    "open_issues_count": 900,
+    "open_issues_count": 902,
     "forks_count": 1163
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1823,
-    "open_issues_count": 125,
-    "forks_count": 903
+    "stargazers_count": 1824,
+    "open_issues_count": 124,
+    "forks_count": 904
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1117,
+    "stargazers_count": 1120,
     "open_issues_count": 78,
     "forks_count": 114
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 30686,
-    "open_issues_count": 20,
-    "forks_count": 18205
+    "stargazers_count": 31368,
+    "open_issues_count": 21,
+    "forks_count": 18549
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14530,
+    "stargazers_count": 14543,
     "open_issues_count": 58,
-    "forks_count": 2239
+    "forks_count": 2243
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2010,
+    "stargazers_count": 2019,
     "open_issues_count": 32,
-    "forks_count": 144
+    "forks_count": 146
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 6930,
+    "stargazers_count": 6938,
     "open_issues_count": 77,
-    "forks_count": 428
+    "forks_count": 429
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1410,
+    "stargazers_count": 1417,
     "open_issues_count": 11,
     "forks_count": 107
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 9938,
-    "open_issues_count": 222,
-    "forks_count": 933
+    "stargazers_count": 9941,
+    "open_issues_count": 219,
+    "forks_count": 935
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 319,
     "open_issues_count": 45,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "bytewizer/runtime",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 3999,
+    "stargazers_count": 4004,
     "open_issues_count": 171,
-    "forks_count": 961
+    "forks_count": 963
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
     "stargazers_count": 447,
-    "open_issues_count": 33,
-    "forks_count": 492
+    "open_issues_count": 34,
+    "forks_count": 493
   },
   {
     "full_name": "charlesnicholson/nanoprintf",
-    "stargazers_count": 557,
+    "stargazers_count": 561,
     "open_issues_count": 10,
     "forks_count": 39
   },
   {
     "full_name": "KirillOsenkov/MSBuildStructuredLog",
-    "stargazers_count": 1379,
+    "stargazers_count": 1381,
     "open_issues_count": 123,
     "forks_count": 187
   },
   {
     "full_name": "hassio-addons/addon-vscode",
-    "stargazers_count": 452,
+    "stargazers_count": 453,
     "open_issues_count": 7,
     "forks_count": 77
-  },
-  {
-    "full_name": "net-daemon/netdaemon",
-    "stargazers_count": 195,
-    "open_issues_count": 2,
-    "forks_count": 56
   }
 ]
