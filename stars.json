@@ -1,8 +1,8 @@
 [
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 4798,
-    "open_issues_count": 496,
+    "stargazers_count": 4809,
+    "open_issues_count": 497,
     "forks_count": 762
   },
   {
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2435,
-    "open_issues_count": 930,
-    "forks_count": 1186
+    "stargazers_count": 2436,
+    "open_issues_count": 935,
+    "forks_count": 1188
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1852,
-    "open_issues_count": 123,
-    "forks_count": 917
+    "stargazers_count": 1858,
+    "open_issues_count": 127,
+    "forks_count": 918
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1181,
-    "open_issues_count": 85,
+    "stargazers_count": 1182,
+    "open_issues_count": 81,
     "forks_count": 116
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 43895,
-    "open_issues_count": 28,
-    "forks_count": 24214
+    "stargazers_count": 44056,
+    "open_issues_count": 19,
+    "forks_count": 24371
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14746,
+    "stargazers_count": 14757,
     "open_issues_count": 58,
-    "forks_count": 2293
+    "forks_count": 2294
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2107,
-    "open_issues_count": 36,
-    "forks_count": 160
+    "stargazers_count": 2111,
+    "open_issues_count": 35,
+    "forks_count": 162
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7008,
+    "stargazers_count": 7012,
     "open_issues_count": 95,
-    "forks_count": 434
+    "forks_count": 435
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1509,
+    "stargazers_count": 1513,
     "open_issues_count": 11,
-    "forks_count": 116
+    "forks_count": 118
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10090,
-    "open_issues_count": 226,
-    "forks_count": 941
+    "stargazers_count": 10098,
+    "open_issues_count": 229,
+    "forks_count": 943
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "Azure/DotNetty",
-    "stargazers_count": 4018,
+    "stargazers_count": 4020,
     "open_issues_count": 173,
-    "forks_count": 964
+    "forks_count": 965
   },
   {
     "full_name": "Azure/azure-iot-sdk-csharp",
