@@ -7,9 +7,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 4860,
+    "stargazers_count": 4865,
     "open_issues_count": 507,
-    "forks_count": 769
+    "forks_count": 768
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -38,32 +38,32 @@
   {
     "full_name": "open62541/open62541",
     "stargazers_count": 2467,
-    "open_issues_count": 944,
-    "forks_count": 1196
+    "open_issues_count": 945,
+    "forks_count": 1197
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
     "stargazers_count": 1880,
-    "open_issues_count": 125,
+    "open_issues_count": 129,
     "forks_count": 923
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1203,
+    "stargazers_count": 1208,
     "open_issues_count": 83,
     "forks_count": 118
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 47299,
-    "open_issues_count": 16,
-    "forks_count": 25792
+    "stargazers_count": 48014,
+    "open_issues_count": 18,
+    "forks_count": 26151
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
     "stargazers_count": 58,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "nanoframework/System.Device.I2c.Slave",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 14821,
+    "stargazers_count": 14833,
     "open_issues_count": 61,
-    "forks_count": 2315
+    "forks_count": 2316
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2137,
+    "stargazers_count": 2141,
     "open_issues_count": 39,
     "forks_count": 168
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7053,
+    "stargazers_count": 7060,
     "open_issues_count": 101,
     "forks_count": 439
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1541,
+    "stargazers_count": 1547,
     "open_issues_count": 15,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 301,
+    "stargazers_count": 372,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 17
   },
   {
     "full_name": "nanoframework/nanoFramework.GiantGecko.Adc",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10145,
-    "open_issues_count": 228,
-    "forks_count": 947
+    "stargazers_count": 10151,
+    "open_issues_count": 229,
+    "forks_count": 948
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
@@ -176,7 +176,7 @@
   {
     "full_name": "Azure/DotNetty",
     "stargazers_count": 4025,
-    "open_issues_count": 173,
+    "open_issues_count": 174,
     "forks_count": 966
   }
 ]
