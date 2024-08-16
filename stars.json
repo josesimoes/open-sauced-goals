@@ -19,9 +19,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 4988,
-    "open_issues_count": 522,
-    "forks_count": 781
+    "stargazers_count": 5003,
+    "open_issues_count": 523,
+    "forks_count": 782
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2524,
-    "open_issues_count": 953,
-    "forks_count": 1219
+    "stargazers_count": 2527,
+    "open_issues_count": 955,
+    "forks_count": 1221
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
     "stargazers_count": 1910,
-    "open_issues_count": 116,
-    "forks_count": 933
+    "open_issues_count": 119,
+    "forks_count": 934
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1247,
-    "open_issues_count": 78,
+    "stargazers_count": 1250,
+    "open_issues_count": 79,
     "forks_count": 121
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 58140,
-    "open_issues_count": 19,
-    "forks_count": 30152
+    "stargazers_count": 58202,
+    "open_issues_count": 18,
+    "forks_count": 30233
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15087,
+    "stargazers_count": 15094,
     "open_issues_count": 61,
-    "forks_count": 2353
+    "forks_count": 2355
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2238,
-    "open_issues_count": 35,
+    "stargazers_count": 2243,
+    "open_issues_count": 36,
     "forks_count": 187
   },
   {
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7153,
+    "stargazers_count": 7160,
     "open_issues_count": 63,
-    "forks_count": 449
+    "forks_count": 448
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1594,
+    "stargazers_count": 1598,
     "open_issues_count": 14,
     "forks_count": 131
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10297,
-    "open_issues_count": 243,
-    "forks_count": 953
+    "stargazers_count": 10301,
+    "open_issues_count": 245,
+    "forks_count": 951
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
