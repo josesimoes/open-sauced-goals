@@ -19,7 +19,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5074,
+    "stargazers_count": 5083,
     "open_issues_count": 530,
     "forks_count": 785
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2548,
+    "stargazers_count": 2551,
     "open_issues_count": 966,
-    "forks_count": 1228
+    "forks_count": 1229
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1928,
-    "open_issues_count": 121,
-    "forks_count": 937
+    "stargazers_count": 1931,
+    "open_issues_count": 116,
+    "forks_count": 939
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1268,
+    "stargazers_count": 1271,
     "open_issues_count": 84,
     "forks_count": 122
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 61684,
-    "open_issues_count": 28,
-    "forks_count": 31335
+    "stargazers_count": 61748,
+    "open_issues_count": 29,
+    "forks_count": 31423
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15182,
+    "stargazers_count": 15185,
     "open_issues_count": 61,
     "forks_count": 2367
   },
@@ -116,8 +116,8 @@
   {
     "full_name": "jakkra/ZSWatch",
     "stargazers_count": 2278,
-    "open_issues_count": 37,
-    "forks_count": 194
+    "open_issues_count": 35,
+    "forks_count": 195
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1626,
+    "stargazers_count": 1629,
     "open_issues_count": 14,
     "forks_count": 132
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 388,
+    "stargazers_count": 389,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10395,
-    "open_issues_count": 241,
+    "stargazers_count": 10398,
+    "open_issues_count": 243,
     "forks_count": 957
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
     "stargazers_count": 365,
-    "open_issues_count": 44,
-    "forks_count": 151
+    "open_issues_count": 45,
+    "forks_count": 153
   },
   {
     "full_name": "bytewizer/runtime",
