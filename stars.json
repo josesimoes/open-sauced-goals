@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nanoframework/nanoFramework.IoT.TestStream",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "volvo-cars/developer-portal-api-samples",
     "stargazers_count": 54,
     "open_issues_count": 4,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5133,
+    "stargazers_count": 5137,
     "open_issues_count": 531,
     "forks_count": 791
   },
@@ -44,32 +50,32 @@
   {
     "full_name": "nanoframework/nanoFramework.Bluetooth.Hid",
     "stargazers_count": 6,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2572,
-    "open_issues_count": 983,
-    "forks_count": 1235
+    "stargazers_count": 2576,
+    "open_issues_count": 984,
+    "forks_count": 1238
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1944,
-    "open_issues_count": 128,
-    "forks_count": 944
+    "stargazers_count": 1946,
+    "open_issues_count": 117,
+    "forks_count": 943
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1285,
-    "open_issues_count": 89,
-    "forks_count": 121
+    "stargazers_count": 1296,
+    "open_issues_count": 90,
+    "forks_count": 122
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 62793,
-    "open_issues_count": 10,
-    "forks_count": 32137
+    "stargazers_count": 63711,
+    "open_issues_count": 14,
+    "forks_count": 32387
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15290,
+    "stargazers_count": 15302,
     "open_issues_count": 63,
-    "forks_count": 2386
+    "forks_count": 2387
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2311,
-    "open_issues_count": 36,
-    "forks_count": 197
+    "stargazers_count": 2318,
+    "open_issues_count": 33,
+    "forks_count": 199
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7241,
+    "stargazers_count": 7249,
     "open_issues_count": 66,
-    "forks_count": 456
+    "forks_count": 457
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1650,
+    "stargazers_count": 1656,
     "open_issues_count": 14,
     "forks_count": 137
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10468,
+    "stargazers_count": 10473,
     "open_issues_count": 241,
     "forks_count": 962
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 45,
     "forks_count": 157
-  },
-  {
-    "full_name": "bytewizer/runtime",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
