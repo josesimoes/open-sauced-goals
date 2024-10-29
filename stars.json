@@ -25,8 +25,8 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5170,
-    "open_issues_count": 534,
+    "stargazers_count": 5175,
+    "open_issues_count": 536,
     "forks_count": 794
   },
   {
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2591,
+    "stargazers_count": 2596,
     "open_issues_count": 994,
-    "forks_count": 1240
+    "forks_count": 1242
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1957,
-    "open_issues_count": 115,
+    "stargazers_count": 1960,
+    "open_issues_count": 121,
     "forks_count": 946
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1322,
-    "open_issues_count": 91,
+    "stargazers_count": 1332,
+    "open_issues_count": 92,
     "forks_count": 122
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 64449,
-    "open_issues_count": 19,
-    "forks_count": 32761
+    "stargazers_count": 64528,
+    "open_issues_count": 21,
+    "forks_count": 32835
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15337,
+    "stargazers_count": 15356,
     "open_issues_count": 63,
-    "forks_count": 2394
+    "forks_count": 2398
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2332,
-    "open_issues_count": 33,
-    "forks_count": 203
+    "stargazers_count": 2338,
+    "open_issues_count": 34,
+    "forks_count": 204
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -134,7 +134,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 68,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 19
   },
   {
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7280,
+    "stargazers_count": 7283,
     "open_issues_count": 66,
-    "forks_count": 458
+    "forks_count": 459
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1664,
+    "stargazers_count": 1669,
     "open_issues_count": 14,
     "forks_count": 137
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "dotnet/BenchmarkDotNet",
-    "stargazers_count": 10509,
+    "stargazers_count": 10522,
     "open_issues_count": 240,
     "forks_count": 968
   },
   {
     "full_name": "SiliconLabs/gecko_sdk",
-    "stargazers_count": 377,
+    "stargazers_count": 379,
     "open_issues_count": 45,
     "forks_count": 158
   }
