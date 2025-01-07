@@ -32,7 +32,7 @@
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 2,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5334,
-    "open_issues_count": 539,
-    "forks_count": 809
+    "stargazers_count": 5340,
+    "open_issues_count": 538,
+    "forks_count": 810
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2655,
-    "open_issues_count": 1044,
-    "forks_count": 1268
+    "stargazers_count": 2657,
+    "open_issues_count": 1046,
+    "forks_count": 1270
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1990,
-    "open_issues_count": 124,
-    "forks_count": 954
+    "stargazers_count": 1993,
+    "open_issues_count": 128,
+    "forks_count": 955
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1399,
+    "stargazers_count": 1402,
     "open_issues_count": 105,
     "forks_count": 129
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 66078,
-    "open_issues_count": 10,
-    "forks_count": 34042
+    "stargazers_count": 66157,
+    "open_issues_count": 11,
+    "forks_count": 34122
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15496,
+    "stargazers_count": 15505,
     "open_issues_count": 63,
-    "forks_count": 2425
+    "forks_count": 2427
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2453,
+    "stargazers_count": 2482,
     "open_issues_count": 33,
     "forks_count": 217
   },
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7385,
-    "open_issues_count": 73,
-    "forks_count": 471
+    "stargazers_count": 7394,
+    "open_issues_count": 78,
+    "forks_count": 474
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1720,
+    "stargazers_count": 1724,
     "open_issues_count": 14,
     "forks_count": 139
   },
