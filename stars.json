@@ -20,13 +20,13 @@
   {
     "full_name": "nanoframework/nanoFramework.IoT.TestStream",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
     "stargazers_count": 56,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 9
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5345,
-    "open_issues_count": 539,
-    "forks_count": 811
+    "stargazers_count": 5353,
+    "open_issues_count": 541,
+    "forks_count": 813
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2661,
-    "open_issues_count": 1049,
+    "stargazers_count": 2660,
+    "open_issues_count": 1050,
     "forks_count": 1271
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 1996,
-    "open_issues_count": 123,
+    "stargazers_count": 1998,
+    "open_issues_count": 124,
     "forks_count": 955
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1403,
+    "stargazers_count": 1406,
     "open_issues_count": 105,
     "forks_count": 129
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 66240,
+    "stargazers_count": 66339,
     "open_issues_count": 13,
-    "forks_count": 34249
+    "forks_count": 34339
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15513,
-    "open_issues_count": 63,
+    "stargazers_count": 15520,
+    "open_issues_count": 64,
     "forks_count": 2427
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2493,
+    "stargazers_count": 2499,
     "open_issues_count": 33,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7399,
+    "stargazers_count": 7405,
     "open_issues_count": 79,
-    "forks_count": 474
+    "forks_count": 473
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1724,
+    "stargazers_count": 1727,
     "open_issues_count": 14,
     "forks_count": 139
   },
