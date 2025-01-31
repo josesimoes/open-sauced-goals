@@ -9,12 +9,12 @@
     "full_name": "openiolink/io-link-shield",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "nanoframework/nanoFramework.Protobuf",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5369,
+    "stargazers_count": 5372,
     "open_issues_count": 542,
     "forks_count": 816
   },
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2679,
-    "open_issues_count": 1054,
-    "forks_count": 1276
+    "stargazers_count": 2682,
+    "open_issues_count": 1059,
+    "forks_count": 1275
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2007,
-    "open_issues_count": 121,
+    "stargazers_count": 2010,
+    "open_issues_count": 125,
     "forks_count": 957
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1410,
-    "open_issues_count": 94,
+    "stargazers_count": 1413,
+    "open_issues_count": 99,
     "forks_count": 129
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 68886,
-    "open_issues_count": 4,
-    "forks_count": 35514
+    "stargazers_count": 69360,
+    "open_issues_count": 7,
+    "forks_count": 35782
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15556,
+    "stargazers_count": 15562,
     "open_issues_count": 64,
-    "forks_count": 2436
+    "forks_count": 2438
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2525,
-    "open_issues_count": 33,
-    "forks_count": 218
+    "stargazers_count": 2539,
+    "open_issues_count": 34,
+    "forks_count": 220
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -152,7 +152,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 73,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 20
   },
   {
@@ -164,14 +164,14 @@
   {
     "full_name": "wasm3/wasm3",
     "stargazers_count": 7417,
-    "open_issues_count": 79,
+    "open_issues_count": 81,
     "forks_count": 473
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1739,
-    "open_issues_count": 14,
-    "forks_count": 141
+    "stargazers_count": 1740,
+    "open_issues_count": 15,
+    "forks_count": 142
   },
   {
     "full_name": "microsoft/foss-fund",
