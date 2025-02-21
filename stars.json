@@ -14,7 +14,7 @@
   {
     "full_name": "nanoframework/nanoFramework.Protobuf",
     "stargazers_count": 3,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5395,
+    "stargazers_count": 5403,
     "open_issues_count": 548,
-    "forks_count": 826
+    "forks_count": 827
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2694,
-    "open_issues_count": 1008,
-    "forks_count": 1279
+    "stargazers_count": 2696,
+    "open_issues_count": 1004,
+    "forks_count": 1282
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2023,
-    "open_issues_count": 117,
-    "forks_count": 960
+    "stargazers_count": 2026,
+    "open_issues_count": 111,
+    "forks_count": 961
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 70726,
-    "open_issues_count": 5,
-    "forks_count": 36714
+    "stargazers_count": 71118,
+    "open_issues_count": 7,
+    "forks_count": 36917
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15599,
+    "stargazers_count": 15613,
     "open_issues_count": 65,
-    "forks_count": 2453
+    "forks_count": 2457
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2580,
+    "stargazers_count": 2587,
     "open_issues_count": 34,
     "forks_count": 223
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
-    "stargazers_count": 14,
-    "open_issues_count": 5,
+    "stargazers_count": 15,
+    "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 74,
     "open_issues_count": 4,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "Apress/exp-.net-micro-framework",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7449,
+    "stargazers_count": 7452,
     "open_issues_count": 82,
-    "forks_count": 478
+    "forks_count": 479
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1753,
+    "stargazers_count": 1756,
     "open_issues_count": 15,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "microsoft/foss-fund",
