@@ -2,7 +2,7 @@
   {
     "full_name": "microsoft/VSDebugAdapterHost",
     "stargazers_count": 79,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 20
   },
   {
@@ -26,7 +26,7 @@
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
     "stargazers_count": 57,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 9
   },
   {
@@ -38,13 +38,13 @@
   {
     "full_name": "nanoframework/nanoFramework.Networking.Thread",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5410,
-    "open_issues_count": 549,
+    "stargazers_count": 5411,
+    "open_issues_count": 551,
     "forks_count": 828
   },
   {
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2696,
-    "open_issues_count": 1011,
-    "forks_count": 1284
+    "stargazers_count": 2700,
+    "open_issues_count": 982,
+    "forks_count": 1285
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2030,
-    "open_issues_count": 115,
+    "stargazers_count": 2033,
+    "open_issues_count": 113,
     "forks_count": 961
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1432,
-    "open_issues_count": 100,
-    "forks_count": 132
+    "stargazers_count": 1433,
+    "open_issues_count": 99,
+    "forks_count": 133
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 71382,
-    "open_issues_count": 7,
-    "forks_count": 37103
+    "stargazers_count": 71580,
+    "open_issues_count": 6,
+    "forks_count": 37261
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15621,
+    "stargazers_count": 15636,
     "open_issues_count": 65,
-    "forks_count": 2461
+    "forks_count": 2463
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2599,
-    "open_issues_count": 34,
-    "forks_count": 224
+    "stargazers_count": 2605,
+    "open_issues_count": 33,
+    "forks_count": 225
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7461,
+    "stargazers_count": 7466,
     "open_issues_count": 82,
     "forks_count": 481
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1761,
+    "stargazers_count": 1763,
     "open_issues_count": 15,
     "forks_count": 144
   },
