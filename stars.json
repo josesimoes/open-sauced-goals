@@ -20,13 +20,13 @@
   {
     "full_name": "nanoframework/nanoFramework.IoT.TestStream",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
     "stargazers_count": 58,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 9
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5426,
-    "open_issues_count": 552,
-    "forks_count": 830
+    "stargazers_count": 5437,
+    "open_issues_count": 553,
+    "forks_count": 832
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
     "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "Azure/iot-central-firmware",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2708,
-    "open_issues_count": 984,
-    "forks_count": 1287
+    "stargazers_count": 2713,
+    "open_issues_count": 986,
+    "forks_count": 1288
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2039,
-    "open_issues_count": 116,
+    "stargazers_count": 2042,
+    "open_issues_count": 115,
     "forks_count": 961
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
     "stargazers_count": 1439,
-    "open_issues_count": 97,
-    "forks_count": 133
+    "open_issues_count": 95,
+    "forks_count": 135
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 73107,
-    "open_issues_count": 10,
-    "forks_count": 37869
+    "stargazers_count": 74692,
+    "open_issues_count": 4,
+    "forks_count": 38407
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -110,7 +110,7 @@
   {
     "full_name": "nanoframework/System.IO.Hashing",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15660,
-    "open_issues_count": 65,
-    "forks_count": 2463
+    "stargazers_count": 15672,
+    "open_issues_count": 66,
+    "forks_count": 2464
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "jakkra/ZSWatch",
-    "stargazers_count": 2614,
+    "stargazers_count": 2622,
     "open_issues_count": 34,
     "forks_count": 229
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7471,
+    "stargazers_count": 7476,
     "open_issues_count": 82,
     "forks_count": 481
   },
   {
     "full_name": "cnlohr/mini-rv32ima",
-    "stargazers_count": 1767,
+    "stargazers_count": 1772,
     "open_issues_count": 15,
-    "forks_count": 143
+    "forks_count": 142
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 0,
     "forks_count": 22
   }
