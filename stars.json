@@ -2,7 +2,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 12,
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "forks_count": 3
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 10,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5484,
-    "open_issues_count": 550,
+    "stargazers_count": 5494,
+    "open_issues_count": 552,
     "forks_count": 843
   },
   {
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2737,
-    "open_issues_count": 951,
+    "stargazers_count": 2742,
+    "open_issues_count": 946,
     "forks_count": 1294
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2057,
-    "open_issues_count": 107,
-    "forks_count": 966
+    "stargazers_count": 2058,
+    "open_issues_count": 110,
+    "forks_count": 967
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1463,
+    "stargazers_count": 1465,
     "open_issues_count": 97,
     "forks_count": 136
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 77650,
-    "open_issues_count": 16,
-    "forks_count": 39983
+    "stargazers_count": 77828,
+    "open_issues_count": 20,
+    "forks_count": 40176
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15755,
+    "stargazers_count": 15765,
     "open_issues_count": 66,
-    "forks_count": 2475
+    "forks_count": 2479
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2674,
+    "stargazers_count": 2680,
     "open_issues_count": 33,
     "forks_count": 233
   },
