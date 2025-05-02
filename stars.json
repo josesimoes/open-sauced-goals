@@ -2,13 +2,13 @@
   {
     "full_name": "nanoframework/nanoFramework.MessagePack",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 12,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5532,
-    "open_issues_count": 556,
-    "forks_count": 847
+    "stargazers_count": 5628,
+    "open_issues_count": 557,
+    "forks_count": 853
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -69,7 +69,7 @@
     "full_name": "Azure/iot-central-firmware",
     "stargazers_count": 129,
     "open_issues_count": 39,
-    "forks_count": 94
+    "forks_count": 93
   },
   {
     "full_name": "Infineon/wifi-core-freertos-lwip-mbedtls",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2766,
-    "open_issues_count": 917,
-    "forks_count": 1302
+    "stargazers_count": 2771,
+    "open_issues_count": 909,
+    "forks_count": 1303
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2070,
-    "open_issues_count": 117,
+    "stargazers_count": 2072,
+    "open_issues_count": 115,
     "forks_count": 970
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1477,
+    "stargazers_count": 1478,
     "open_issues_count": 99,
     "forks_count": 138
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 80857,
-    "open_issues_count": 19,
-    "forks_count": 41632
+    "stargazers_count": 81914,
+    "open_issues_count": 23,
+    "forks_count": 42035
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15826,
+    "stargazers_count": 15832,
     "open_issues_count": 65,
-    "forks_count": 2493
+    "forks_count": 2494
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2718,
+    "stargazers_count": 2726,
     "open_issues_count": 35,
-    "forks_count": 239
+    "forks_count": 240
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7536,
+    "stargazers_count": 7541,
     "open_issues_count": 84,
     "forks_count": 484
   }
