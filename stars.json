@@ -8,7 +8,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 13,
-    "open_issues_count": 15,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5821,
+    "stargazers_count": 5834,
     "open_issues_count": 556,
-    "forks_count": 859
+    "forks_count": 861
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -86,26 +86,26 @@
   {
     "full_name": "open62541/open62541",
     "stargazers_count": 2785,
-    "open_issues_count": 917,
-    "forks_count": 1306
+    "open_issues_count": 923,
+    "forks_count": 1309
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2081,
-    "open_issues_count": 115,
+    "stargazers_count": 2086,
+    "open_issues_count": 116,
     "forks_count": 973
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1490,
-    "open_issues_count": 99,
+    "stargazers_count": 1494,
+    "open_issues_count": 100,
     "forks_count": 138
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 83499,
-    "open_issues_count": 14,
-    "forks_count": 43215
+    "stargazers_count": 83678,
+    "open_issues_count": 16,
+    "forks_count": 43379
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 15871,
+    "stargazers_count": 15882,
     "open_issues_count": 65,
-    "forks_count": 2498
+    "forks_count": 2503
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2748,
-    "open_issues_count": 36,
+    "stargazers_count": 2755,
+    "open_issues_count": 35,
     "forks_count": 242
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7548,
+    "stargazers_count": 7555,
     "open_issues_count": 85,
     "forks_count": 485
   }
