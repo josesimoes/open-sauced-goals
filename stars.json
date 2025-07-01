@@ -8,7 +8,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 14,
-    "open_issues_count": 17,
+    "open_issues_count": 15,
     "forks_count": 9
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 5927,
-    "open_issues_count": 565,
-    "forks_count": 871
+    "stargazers_count": 5934,
+    "open_issues_count": 560,
+    "forks_count": 872
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2822,
-    "open_issues_count": 884,
-    "forks_count": 1321
+    "stargazers_count": 2823,
+    "open_issues_count": 887,
+    "forks_count": 1323
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2109,
-    "open_issues_count": 105,
+    "stargazers_count": 2110,
+    "open_issues_count": 109,
     "forks_count": 982
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1512,
+    "stargazers_count": 1517,
     "open_issues_count": 101,
     "forks_count": 140
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 85982,
-    "open_issues_count": 15,
-    "forks_count": 45246
+    "stargazers_count": 87075,
+    "open_issues_count": 16,
+    "forks_count": 45700
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16001,
+    "stargazers_count": 16041,
     "open_issues_count": 67,
-    "forks_count": 2531
+    "forks_count": 2537
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2796,
-    "open_issues_count": 31,
-    "forks_count": 243
+    "stargazers_count": 2803,
+    "open_issues_count": 32,
+    "forks_count": 244
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -164,8 +164,8 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 78,
-    "open_issues_count": 6,
-    "forks_count": 21
+    "open_issues_count": 11,
+    "forks_count": 22
   },
   {
     "full_name": "Apress/exp-.net-micro-framework",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7607,
+    "stargazers_count": 7610,
     "open_issues_count": 85,
     "forks_count": 490
   }
