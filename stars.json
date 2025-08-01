@@ -8,7 +8,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 14,
-    "open_issues_count": 13,
+    "open_issues_count": 11,
     "forks_count": 12
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6021,
-    "open_issues_count": 569,
-    "forks_count": 884
+    "stargazers_count": 6032,
+    "open_issues_count": 570,
+    "forks_count": 886
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2846,
-    "open_issues_count": 894,
-    "forks_count": 1334
+    "stargazers_count": 2848,
+    "open_issues_count": 849,
+    "forks_count": 1335
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 93381,
-    "open_issues_count": 16,
-    "forks_count": 48221
+    "stargazers_count": 93772,
+    "open_issues_count": 19,
+    "forks_count": 48544
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16360,
+    "stargazers_count": 16377,
     "open_issues_count": 68,
-    "forks_count": 2570
+    "forks_count": 2571
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2850,
-    "open_issues_count": 22,
-    "forks_count": 248
+    "stargazers_count": 2854,
+    "open_issues_count": 21,
+    "forks_count": 251
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7637,
+    "stargazers_count": 7645,
     "open_issues_count": 86,
-    "forks_count": 490
+    "forks_count": 491
   }
 ]
