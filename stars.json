@@ -55,7 +55,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6063,
+    "stargazers_count": 6065,
     "open_issues_count": 578,
     "forks_count": 894
   },
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2872,
-    "open_issues_count": 862,
-    "forks_count": 1341
+    "stargazers_count": 2874,
+    "open_issues_count": 861,
+    "forks_count": 1342
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2133,
-    "open_issues_count": 105,
-    "forks_count": 990
+    "stargazers_count": 2134,
+    "open_issues_count": 106,
+    "forks_count": 991
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1541,
+    "stargazers_count": 1542,
     "open_issues_count": 105,
     "forks_count": 142
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 95330,
-    "open_issues_count": 14,
-    "forks_count": 49840
+    "stargazers_count": 95959,
+    "open_issues_count": 17,
+    "forks_count": 50137
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16420,
-    "open_issues_count": 63,
-    "forks_count": 2582
+    "stargazers_count": 16436,
+    "open_issues_count": 50,
+    "forks_count": 2583
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2897,
+    "stargazers_count": 2906,
     "open_issues_count": 19,
-    "forks_count": 259
+    "forks_count": 258
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -164,7 +164,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 78,
-    "open_issues_count": 11,
+    "open_issues_count": 8,
     "forks_count": 24
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7668,
+    "stargazers_count": 7670,
     "open_issues_count": 85,
     "forks_count": 493
   }
