@@ -7,9 +7,9 @@
   },
   {
     "full_name": "Azure/iot-operations-sdks",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 14,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6126,
-    "open_issues_count": 585,
+    "stargazers_count": 6131,
+    "open_issues_count": 584,
     "forks_count": 905
   },
   {
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2887,
+    "stargazers_count": 2890,
     "open_issues_count": 846,
-    "forks_count": 1346
+    "forks_count": 1348
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2152,
+    "stargazers_count": 2153,
     "open_issues_count": 111,
     "forks_count": 995
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1558,
+    "stargazers_count": 1559,
     "open_issues_count": 105,
     "forks_count": 141
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 98408,
-    "open_issues_count": 14,
-    "forks_count": 51687
+    "stargazers_count": 98695,
+    "open_issues_count": 21,
+    "forks_count": 51881
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16497,
+    "stargazers_count": 16510,
     "open_issues_count": 3,
-    "forks_count": 2623
+    "forks_count": 2627
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2952,
+    "stargazers_count": 2955,
     "open_issues_count": 19,
     "forks_count": 266
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "Ellerbach/docfx-companion-tools",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 6,
     "forks_count": 24
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7696,
+    "stargazers_count": 7706,
     "open_issues_count": 86,
-    "forks_count": 495
+    "forks_count": 496
   }
 ]
