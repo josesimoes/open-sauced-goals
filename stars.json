@@ -8,12 +8,12 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 15,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 16
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 8,
     "forks_count": 19
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 11,
     "forks_count": 11
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6140,
-    "open_issues_count": 583,
-    "forks_count": 907
+    "stargazers_count": 6148,
+    "open_issues_count": 581,
+    "forks_count": 912
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2898,
-    "open_issues_count": 843,
-    "forks_count": 1349
+    "stargazers_count": 2899,
+    "open_issues_count": 846,
+    "forks_count": 1347
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2159,
-    "open_issues_count": 113,
-    "forks_count": 997
+    "stargazers_count": 2163,
+    "open_issues_count": 117,
+    "forks_count": 998
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 98989,
-    "open_issues_count": 25,
-    "forks_count": 52035
+    "stargazers_count": 99405,
+    "open_issues_count": 8,
+    "forks_count": 52320
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16525,
+    "stargazers_count": 16540,
     "open_issues_count": 3,
-    "forks_count": 2636
+    "forks_count": 2644
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 2958,
-    "open_issues_count": 21,
+    "stargazers_count": 2962,
+    "open_issues_count": 17,
     "forks_count": 266
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7710,
-    "open_issues_count": 87,
-    "forks_count": 497
+    "stargazers_count": 7708,
+    "open_issues_count": 86,
+    "forks_count": 498
   }
 ]
