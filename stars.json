@@ -8,7 +8,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 16,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 19
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
-    "stargazers_count": 70,
-    "open_issues_count": 13,
+    "stargazers_count": 72,
+    "open_issues_count": 14,
     "forks_count": 12
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6279,
-    "open_issues_count": 598,
-    "forks_count": 938
+    "stargazers_count": 6285,
+    "open_issues_count": 599,
+    "forks_count": 937
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -69,7 +69,7 @@
     "full_name": "Azure/iot-central-firmware",
     "stargazers_count": 128,
     "open_issues_count": 39,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "Infineon/wifi-core-freertos-lwip-mbedtls",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2966,
-    "open_issues_count": 840,
-    "forks_count": 1370
+    "stargazers_count": 2970,
+    "open_issues_count": 842,
+    "forks_count": 1369
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2191,
-    "open_issues_count": 107,
-    "forks_count": 1016
+    "stargazers_count": 2192,
+    "open_issues_count": 68,
+    "forks_count": 1017
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1585,
-    "open_issues_count": 110,
+    "stargazers_count": 1588,
+    "open_issues_count": 111,
     "forks_count": 144
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 102568,
-    "open_issues_count": 13,
-    "forks_count": 54600
+    "stargazers_count": 102640,
+    "open_issues_count": 12,
+    "forks_count": 54666
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -129,7 +129,7 @@
     "full_name": "nanoframework/System.Security.Cryptography",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 2
   },
   {
     "full_name": "skirridsystems/es-printf",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16661,
+    "stargazers_count": 16660,
     "open_issues_count": 4,
-    "forks_count": 2721
+    "forks_count": 2723
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3032,
+    "stargazers_count": 3035,
     "open_issues_count": 19,
     "forks_count": 272
   },
@@ -159,7 +159,7 @@
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
     "stargazers_count": 17,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Ellerbach/docfx-companion-tools",
@@ -171,12 +171,12 @@
     "full_name": "Apress/exp-.net-micro-framework",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 3
   },
   {
     "full_name": "wasm3/wasm3",
-    "stargazers_count": 7779,
-    "open_issues_count": 92,
-    "forks_count": 506
+    "stargazers_count": 7786,
+    "open_issues_count": 95,
+    "forks_count": 505
   }
 ]
