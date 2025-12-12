@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Apress/Embedded-Systems-with-.NET-nanoFramework",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "nanoframework/nanoFramework.MessagePack",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -8,8 +14,8 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 16,
-    "open_issues_count": 20,
-    "forks_count": 19
+    "open_issues_count": 21,
+    "forks_count": 18
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 14,
     "forks_count": 13
   },
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6290,
-    "open_issues_count": 599,
-    "forks_count": 938
+    "stargazers_count": 6295,
+    "open_issues_count": 600,
+    "forks_count": 943
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -85,27 +91,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2971,
-    "open_issues_count": 845,
-    "forks_count": 1371
+    "stargazers_count": 2977,
+    "open_issues_count": 850,
+    "forks_count": 1372
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2192,
-    "open_issues_count": 61,
-    "forks_count": 1018
+    "stargazers_count": 2194,
+    "open_issues_count": 46,
+    "forks_count": 1019
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1593,
-    "open_issues_count": 113,
-    "forks_count": 145
+    "stargazers_count": 1595,
+    "open_issues_count": 115,
+    "forks_count": 146
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 102827,
-    "open_issues_count": 11,
-    "forks_count": 54740
+    "stargazers_count": 103647,
+    "open_issues_count": 10,
+    "forks_count": 55015
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16660,
+    "stargazers_count": 16669,
     "open_issues_count": 4,
-    "forks_count": 2726
+    "forks_count": 2732
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3043,
-    "open_issues_count": 19,
-    "forks_count": 273
+    "stargazers_count": 3049,
+    "open_issues_count": 16,
+    "forks_count": 274
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "wasm3/wasm3",
-    "stargazers_count": 7796,
-    "open_issues_count": 95,
-    "forks_count": 506
   }
 ]
