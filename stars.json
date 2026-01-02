@@ -61,9 +61,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6333,
+    "stargazers_count": 6337,
     "open_issues_count": 600,
-    "forks_count": 950
+    "forks_count": 951
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -86,38 +86,38 @@
   {
     "full_name": "nanoframework/nanoFramework.Bluetooth.Hid",
     "stargazers_count": 10,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 2988,
-    "open_issues_count": 850,
+    "stargazers_count": 2989,
+    "open_issues_count": 851,
     "forks_count": 1376
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2202,
-    "open_issues_count": 49,
-    "forks_count": 1019
+    "stargazers_count": 2205,
+    "open_issues_count": 45,
+    "forks_count": 1020
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1604,
+    "stargazers_count": 1605,
     "open_issues_count": 115,
     "forks_count": 146
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 104462,
-    "open_issues_count": 13,
-    "forks_count": 55646
+    "stargazers_count": 104566,
+    "open_issues_count": 14,
+    "forks_count": 55724
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
     "stargazers_count": 60,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "nanoframework/System.Device.I2c.Slave",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16698,
-    "open_issues_count": 1,
-    "forks_count": 2742
+    "stargazers_count": 16697,
+    "open_issues_count": 0,
+    "forks_count": 2746
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3066,
-    "open_issues_count": 16,
+    "stargazers_count": 3077,
+    "open_issues_count": 17,
     "forks_count": 275
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
     "stargazers_count": 18,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
