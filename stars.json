@@ -13,13 +13,13 @@
   },
   {
     "full_name": "Azure/iot-operations-sdks",
-    "stargazers_count": 15,
-    "open_issues_count": 13,
-    "forks_count": 18
+    "stargazers_count": 16,
+    "open_issues_count": 14,
+    "forks_count": 19
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 8,
     "forks_count": 19
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6364,
-    "open_issues_count": 600,
-    "forks_count": 956
+    "stargazers_count": 6372,
+    "open_issues_count": 601,
+    "forks_count": 957
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3000,
-    "open_issues_count": 861,
+    "stargazers_count": 3006,
+    "open_issues_count": 865,
     "forks_count": 1381
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2215,
-    "open_issues_count": 49,
-    "forks_count": 1022
+    "stargazers_count": 2214,
+    "open_issues_count": 55,
+    "forks_count": 1023
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1616,
+    "stargazers_count": 1618,
     "open_issues_count": 116,
     "forks_count": 159
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 105211,
-    "open_issues_count": 7,
-    "forks_count": 56173
+    "stargazers_count": 105349,
+    "open_issues_count": 8,
+    "forks_count": 56288
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16721,
-    "open_issues_count": 0,
-    "forks_count": 2762
+    "stargazers_count": 16725,
+    "open_issues_count": 1,
+    "forks_count": 2764
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3088,
+    "stargazers_count": 3089,
     "open_issues_count": 17,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
@@ -170,7 +170,7 @@
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 81,
-    "open_issues_count": 8,
+    "open_issues_count": 6,
     "forks_count": 26
   },
   {
