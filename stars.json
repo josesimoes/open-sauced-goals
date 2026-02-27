@@ -20,7 +20,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 17,
-    "open_issues_count": 18,
+    "open_issues_count": 15,
     "forks_count": 20
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6438,
+    "stargazers_count": 6443,
     "open_issues_count": 609,
     "forks_count": 964
   },
@@ -98,26 +98,26 @@
   {
     "full_name": "open62541/open62541",
     "stargazers_count": 3030,
-    "open_issues_count": 880,
-    "forks_count": 1392
+    "open_issues_count": 883,
+    "forks_count": 1390
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2240,
-    "open_issues_count": 57,
-    "forks_count": 1025
+    "stargazers_count": 2242,
+    "open_issues_count": 64,
+    "forks_count": 1027
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1637,
+    "stargazers_count": 1639,
     "open_issues_count": 113,
     "forks_count": 159
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 106936,
-    "open_issues_count": 15,
-    "forks_count": 57304
+    "stargazers_count": 107123,
+    "open_issues_count": 17,
+    "forks_count": 57406
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16768,
+    "stargazers_count": 16773,
     "open_issues_count": 1,
-    "forks_count": 2784
+    "forks_count": 2788
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3129,
-    "open_issues_count": 21,
-    "forks_count": 280
+    "stargazers_count": 3130,
+    "open_issues_count": 22,
+    "forks_count": 281
   },
   {
     "full_name": "nefarius/Nefarius.Drivers.WinUSB",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "Ellerbach/docfx-companion-tools",
     "stargazers_count": 80,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 26
   }
 ]
