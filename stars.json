@@ -26,7 +26,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 17,
-    "open_issues_count": 20,
+    "open_issues_count": 15,
     "forks_count": 20
   },
   {
@@ -56,8 +56,8 @@
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
     "stargazers_count": 75,
-    "open_issues_count": 16,
-    "forks_count": 13
+    "open_issues_count": 15,
+    "forks_count": 12
   },
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6462,
-    "open_issues_count": 610,
-    "forks_count": 970
+    "stargazers_count": 6469,
+    "open_issues_count": 611,
+    "forks_count": 969
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3037,
-    "open_issues_count": 893,
-    "forks_count": 1393
+    "stargazers_count": 3041,
+    "open_issues_count": 855,
+    "forks_count": 1395
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2247,
-    "open_issues_count": 64,
+    "stargazers_count": 2249,
+    "open_issues_count": 70,
     "forks_count": 1028
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1642,
+    "stargazers_count": 1646,
     "open_issues_count": 113,
     "forks_count": 161
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 107567,
-    "open_issues_count": 28,
-    "forks_count": 57670
+    "stargazers_count": 107742,
+    "open_issues_count": 6,
+    "forks_count": 57778
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16781,
+    "stargazers_count": 16787,
     "open_issues_count": 1,
     "forks_count": 2798
   },
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3135,
-    "open_issues_count": 28,
+    "stargazers_count": 3142,
+    "open_issues_count": 29,
     "forks_count": 283
   },
   {
