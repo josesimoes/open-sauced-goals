@@ -37,7 +37,7 @@
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 8,
     "forks_count": 19
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6622,
+    "stargazers_count": 6623,
     "open_issues_count": 615,
-    "forks_count": 985
+    "forks_count": 986
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3086,
-    "open_issues_count": 848,
-    "forks_count": 1412
+    "stargazers_count": 3089,
+    "open_issues_count": 847,
+    "forks_count": 1415
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2285,
-    "open_issues_count": 44,
-    "forks_count": 1035
+    "stargazers_count": 2287,
+    "open_issues_count": 50,
+    "forks_count": 1036
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1658,
+    "stargazers_count": 1657,
     "open_issues_count": 120,
-    "forks_count": 163
+    "forks_count": 162
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 110057,
-    "open_issues_count": 6,
-    "forks_count": 59053
+    "stargazers_count": 110211,
+    "open_issues_count": 7,
+    "forks_count": 59106
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16896,
+    "stargazers_count": 16899,
     "open_issues_count": 1,
-    "forks_count": 2853
+    "forks_count": 2855
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ZSWatch/ZSWatch",
-    "stargazers_count": 3215,
-    "open_issues_count": 29,
-    "forks_count": 296
+    "stargazers_count": 3218,
+    "open_issues_count": 28,
+    "forks_count": 297
   }
 ]
