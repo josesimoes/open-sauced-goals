@@ -74,7 +74,7 @@
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 3,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6666,
-    "open_issues_count": 616,
+    "stargazers_count": 6673,
+    "open_issues_count": 618,
     "forks_count": 990
   },
   {
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3116,
-    "open_issues_count": 847,
+    "stargazers_count": 3119,
+    "open_issues_count": 848,
     "forks_count": 1423
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2301,
-    "open_issues_count": 46,
-    "forks_count": 1045
+    "stargazers_count": 2303,
+    "open_issues_count": 43,
+    "forks_count": 1046
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
     "stargazers_count": 1664,
-    "open_issues_count": 120,
+    "open_issues_count": 116,
     "forks_count": 162
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 111371,
+    "stargazers_count": 111481,
     "open_issues_count": 18,
-    "forks_count": 59743
+    "forks_count": 59825
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -152,7 +152,7 @@
   {
     "full_name": "nanoframework/System.IO.Hashing",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16920,
-    "open_issues_count": 1,
+    "stargazers_count": 16922,
+    "open_issues_count": 0,
     "forks_count": 2868
   },
   {
