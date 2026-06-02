@@ -43,7 +43,7 @@
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 8,
     "forks_count": 19
   },
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "volvo-cars/developer-portal-api-samples",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 15,
     "forks_count": 12
   },
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6673,
+    "stargazers_count": 6680,
     "open_issues_count": 618,
     "forks_count": 990
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3119,
-    "open_issues_count": 848,
-    "forks_count": 1423
+    "stargazers_count": 3122,
+    "open_issues_count": 849,
+    "forks_count": 1424
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2303,
-    "open_issues_count": 43,
-    "forks_count": 1046
+    "stargazers_count": 2305,
+    "open_issues_count": 40,
+    "forks_count": 1048
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1664,
-    "open_issues_count": 116,
-    "forks_count": 162
+    "stargazers_count": 1670,
+    "open_issues_count": 112,
+    "forks_count": 164
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 111481,
+    "stargazers_count": 111570,
     "open_issues_count": 18,
-    "forks_count": 59825
+    "forks_count": 59884
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -152,7 +152,7 @@
   {
     "full_name": "nanoframework/System.IO.Hashing",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16922,
+    "stargazers_count": 16927,
     "open_issues_count": 0,
-    "forks_count": 2868
+    "forks_count": 2871
   },
   {
     "full_name": "miloush/Terka.TinyFonts",
