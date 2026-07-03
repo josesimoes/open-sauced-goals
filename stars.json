@@ -1,7 +1,7 @@
 [
   {
     "full_name": "markrussinovich/Polypost",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 6,
     "forks_count": 35
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "Azure/iot-operations-sdks",
-    "stargazers_count": 19,
-    "open_issues_count": 15,
+    "stargazers_count": 18,
+    "open_issues_count": 18,
     "forks_count": 23
   },
   {
@@ -68,7 +68,7 @@
   {
     "full_name": "nanoframework/nanoFramework.IoT.TestStream",
     "stargazers_count": 2,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6768,
+    "stargazers_count": 6775,
     "open_issues_count": 622,
     "forks_count": 999
   },
@@ -105,7 +105,7 @@
     "full_name": "Azure/iot-central-firmware",
     "stargazers_count": 128,
     "open_issues_count": 39,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "Infineon/wifi-core-freertos-lwip-mbedtls",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3163,
-    "open_issues_count": 836,
-    "forks_count": 1435
+    "stargazers_count": 3169,
+    "open_issues_count": 830,
+    "forks_count": 1436
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2318,
-    "open_issues_count": 20,
-    "forks_count": 1054
+    "stargazers_count": 2320,
+    "open_issues_count": 25,
+    "forks_count": 1056
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1677,
+    "stargazers_count": 1679,
     "open_issues_count": 115,
     "forks_count": 165
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 112414,
+    "stargazers_count": 112581,
     "open_issues_count": 10,
-    "forks_count": 60397
+    "forks_count": 60465
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16954,
+    "stargazers_count": 16960,
     "open_issues_count": 0,
-    "forks_count": 2888
+    "forks_count": 2894
   }
 ]
