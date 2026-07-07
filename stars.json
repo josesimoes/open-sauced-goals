@@ -1,9 +1,9 @@
 [
   {
     "full_name": "markrussinovich/Polypost",
-    "stargazers_count": 178,
+    "stargazers_count": 181,
     "open_issues_count": 6,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "EAndresGE/Power-or-nah",
@@ -44,7 +44,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 18,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 23
   },
   {
@@ -80,7 +80,7 @@
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6775,
-    "open_issues_count": 622,
-    "forks_count": 999
+    "stargazers_count": 6782,
+    "open_issues_count": 626,
+    "forks_count": 1001
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3169,
-    "open_issues_count": 830,
-    "forks_count": 1436
+    "stargazers_count": 3172,
+    "open_issues_count": 828,
+    "forks_count": 1437
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2320,
+    "stargazers_count": 2336,
     "open_issues_count": 25,
     "forks_count": 1056
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1679,
+    "stargazers_count": 1682,
     "open_issues_count": 115,
     "forks_count": 165
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 112581,
-    "open_issues_count": 10,
-    "forks_count": 60465
+    "stargazers_count": 112709,
+    "open_issues_count": 1,
+    "forks_count": 60542
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 16960,
+    "stargazers_count": 16958,
     "open_issues_count": 0,
     "forks_count": 2894
   }
