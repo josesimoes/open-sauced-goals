@@ -2,20 +2,20 @@
   {
     "full_name": "stlink-org/stlink",
     "stargazers_count": 5117,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 1320
   },
   {
     "full_name": "chibios-upstream/chibios",
     "stargazers_count": 10,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "markrussinovich/Polypost",
-    "stargazers_count": 208,
+    "stargazers_count": 210,
     "open_issues_count": 7,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "EAndresGE/Power-or-nah",
@@ -92,7 +92,7 @@
   {
     "full_name": "CCSWE-nanoFramework/vstest-nanoframework",
     "stargazers_count": 3,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6866,
+    "stargazers_count": 6875,
     "open_issues_count": 630,
-    "forks_count": 1009
+    "forks_count": 1008
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3192,
-    "open_issues_count": 825,
-    "forks_count": 1444
+    "stargazers_count": 3195,
+    "open_issues_count": 823,
+    "forks_count": 1445
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2359,
-    "open_issues_count": 39,
+    "stargazers_count": 2360,
+    "open_issues_count": 41,
     "forks_count": 1057
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1688,
+    "stargazers_count": 1690,
     "open_issues_count": 119,
     "forks_count": 165
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 113753,
-    "open_issues_count": 10,
-    "forks_count": 61071
+    "stargazers_count": 115636,
+    "open_issues_count": 15,
+    "forks_count": 61447
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
