@@ -1,19 +1,19 @@
 [
   {
     "full_name": "stlink-org/stlink",
-    "stargazers_count": 5121,
-    "open_issues_count": 8,
-    "forks_count": 1322
+    "stargazers_count": 5123,
+    "open_issues_count": 9,
+    "forks_count": 1321
   },
   {
     "full_name": "chibios-upstream/chibios",
     "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 11
+    "open_issues_count": 9,
+    "forks_count": 12
   },
   {
     "full_name": "markrussinovich/Polypost",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 7,
     "forks_count": 44
   },
@@ -56,8 +56,8 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 19,
-    "open_issues_count": 17,
-    "forks_count": 23
+    "open_issues_count": 19,
+    "forks_count": 24
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "openiolink/io-link-shield",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6878,
+    "stargazers_count": 6887,
     "open_issues_count": 630,
-    "forks_count": 1008
+    "forks_count": 1012
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3200,
-    "open_issues_count": 815,
-    "forks_count": 1446
+    "stargazers_count": 3203,
+    "open_issues_count": 816,
+    "forks_count": 1449
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2365,
-    "open_issues_count": 26,
-    "forks_count": 1056
+    "stargazers_count": 2369,
+    "open_issues_count": 39,
+    "forks_count": 1057
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
     "stargazers_count": 1690,
-    "open_issues_count": 120,
+    "open_issues_count": 119,
     "forks_count": 165
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 116808,
-    "open_issues_count": 21,
-    "forks_count": 61737
+    "stargazers_count": 117369,
+    "open_issues_count": 24,
+    "forks_count": 61936
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
