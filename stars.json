@@ -1,15 +1,15 @@
 [
   {
     "full_name": "stlink-org/stlink",
-    "stargazers_count": 5138,
+    "stargazers_count": 5145,
     "open_issues_count": 9,
     "forks_count": 1321
   },
   {
     "full_name": "chibios-upstream/chibios",
     "stargazers_count": 11,
-    "open_issues_count": 10,
-    "forks_count": 12
+    "open_issues_count": 5,
+    "forks_count": 11
   },
   {
     "full_name": "markrussinovich/Polypost",
@@ -56,8 +56,8 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 19,
-    "open_issues_count": 14,
-    "forks_count": 24
+    "open_issues_count": 17,
+    "forks_count": 25
   },
   {
     "full_name": "microsoft/VSDebugAdapterHost",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6896,
-    "open_issues_count": 631,
-    "forks_count": 1016
+    "stargazers_count": 6903,
+    "open_issues_count": 632,
+    "forks_count": 1017
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
-    "stargazers_count": 23,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 24,
+    "open_issues_count": 2,
+    "forks_count": 3
   },
   {
     "full_name": "Azure/iot-central-firmware",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3210,
-    "open_issues_count": 820,
-    "forks_count": 1452
+    "stargazers_count": 3215,
+    "open_issues_count": 825,
+    "forks_count": 1453
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2372,
-    "open_issues_count": 26,
-    "forks_count": 1058
+    "stargazers_count": 2374,
+    "open_issues_count": 19,
+    "forks_count": 1057
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1693,
+    "stargazers_count": 1694,
     "open_issues_count": 120,
     "forks_count": 167
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 118226,
-    "open_issues_count": 28,
-    "forks_count": 62323
+    "stargazers_count": 118487,
+    "open_issues_count": 29,
+    "forks_count": 62473
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
