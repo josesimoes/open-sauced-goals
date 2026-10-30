@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "nanoframework/nano-website",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 868,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 112
   },
   {
@@ -13,20 +19,20 @@
   },
   {
     "full_name": "stlink-org/stlink",
-    "stargazers_count": 5212,
+    "stargazers_count": 5220,
     "open_issues_count": 4,
-    "forks_count": 1330
+    "forks_count": 1329
   },
   {
     "full_name": "chibios-upstream/chibios",
     "stargazers_count": 19,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "markrussinovich/Polypost",
-    "stargazers_count": 230,
-    "open_issues_count": 16,
+    "stargazers_count": 232,
+    "open_issues_count": 11,
     "forks_count": 45
   },
   {
@@ -68,7 +74,7 @@
   {
     "full_name": "Azure/iot-operations-sdks",
     "stargazers_count": 19,
-    "open_issues_count": 20,
+    "open_issues_count": 17,
     "forks_count": 28
   },
   {
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "littlefs-project/littlefs",
-    "stargazers_count": 6983,
-    "open_issues_count": 642,
-    "forks_count": 1041
+    "stargazers_count": 6990,
+    "open_issues_count": 644,
+    "forks_count": 1049
   },
   {
     "full_name": "JustinGrote/MicrosoftMvp",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "open62541/open62541",
-    "stargazers_count": 3260,
-    "open_issues_count": 571,
-    "forks_count": 1477
+    "stargazers_count": 3263,
+    "open_issues_count": 565,
+    "forks_count": 1478
   },
   {
     "full_name": "OPCFoundation/UA-.NETStandard",
-    "stargazers_count": 2421,
-    "open_issues_count": 37,
-    "forks_count": 1059
+    "stargazers_count": 2426,
+    "open_issues_count": 43,
+    "forks_count": 1061
   },
   {
     "full_name": "dotnet-outdated/dotnet-outdated",
-    "stargazers_count": 1691,
-    "open_issues_count": 126,
+    "stargazers_count": 1692,
+    "open_issues_count": 128,
     "forks_count": 172
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 122222,
-    "open_issues_count": 12,
-    "forks_count": 64960
+    "stargazers_count": 122430,
+    "open_issues_count": 15,
+    "forks_count": 65188
   },
   {
     "full_name": "sebdehne/DehneEVSE-Firmware",
     "stargazers_count": 59,
     "open_issues_count": 1,
     "forks_count": 10
-  },
-  {
-    "full_name": "nanoframework/System.Device.I2c.Slave",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
